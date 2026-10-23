@@ -1,5 +1,4 @@
 # Ultrasound–Microbubble Simulation
-This project investigates the effects of ultrasound parameters on lipid-shell microbubble dynamics and explores acoustic-field simulation for a 16-element soft-piezoceramic transducer.
 
 ## Project Overview
 
