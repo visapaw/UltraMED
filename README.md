@@ -24,7 +24,7 @@ Transducer:
  <img width="1344" height="286" alt="image" src="https://github.com/user-attachments/assets/72de2646-7944-4b42-802e-1448c6e7f166" />
  <img width="1324" height="262" alt="image" src="https://github.com/user-attachments/assets/3720f73b-2b07-43a7-b2a4-5b13f07ff9b6" />
  source:https://pmc.ncbi.nlm.nih.gov/articles/PMC10692958/
--Keller-Miksis equation
+- Keller-Miksis equation
  <img width="1412" height="140" alt="image" src="https://github.com/user-attachments/assets/6185f4db-1294-4167-bd65-990c04e8f915" />
 - Gilmore equation
  <img width="1256" height="174" alt="image" src="https://github.com/user-attachments/assets/6fc54585-1208-4254-b331-6ce4105fcda6" />
