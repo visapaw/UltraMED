@@ -35,5 +35,4 @@ Transducer:
 
 
 ## Limitations
-
-The simulation parameters are initial illustrative values, not validated measurements of the actual formulation. The effects of AMC on shell properties must be established experimentally. The transducer model does not directly simulate piezoelectric coupling.
+ปัญหาคือยังไม่มีค่าk (surface dilatational viscosity), X (compression modulus), Sigma0 ที่เฉพาะเจาะจงสำหรับการใช้lipid shell ratio()และAMC
