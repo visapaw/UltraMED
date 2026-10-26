@@ -38,7 +38,7 @@ Transducer:
 
 | File | Description |
 |---|---|
-| `bubble_dynamics_marmottant.m` | Bubble oscillation and modeled shell-rupture analysis |
+| `MBdynamic.m` | sim MB using 3 model (PR, KM, Gilmmore)  |
 | `kwave_16element_linear_array.m` | 2D acoustic-field simulation for a 16-element array |
 
 
