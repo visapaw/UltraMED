@@ -39,7 +39,7 @@ Transducer:
 | File | Description |
 |---|---|
 | `MBdynamic.m` | sim MB using 3 model (PR, KM, Gilmmore)  |
-| `kwave_16element_linear_array.m` | 2D acoustic-field simulation for a 16-element array |
+| `kwave_16element_3D_single_frequency.m` | 2D acoustic-field simulation for a 16-element array |
 
 
 ## Limitations
