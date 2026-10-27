@@ -12,7 +12,7 @@ Transducer:
 
 ## Goals
 
-1. Ultrasound ที่ความถี่ไหนทำให้ microbubble แตก
+1. Ultrasound ที่ทำให้ microbubble แตก
 2. ออกแบบ 16-element soft-piezoceramic ที่ให้ค่าที่เหมาะสม
 
 ## Equation used and Referrences
